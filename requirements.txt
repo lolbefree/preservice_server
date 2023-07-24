@@ -1,0 +1,7 @@
+pip~=22.0.2
+certifi~=2023.7.22
+altgraph~=0.17.3
+idna~=3.4
+urllib3~=2.0.4
+pyinstaller~=5.13.0
+requests~=2.31.0
